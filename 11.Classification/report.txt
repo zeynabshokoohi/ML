@@ -1,0 +1,14 @@
+
+11. Classification Floder:
+
+We have two folders in Classification Floder:
+
+1- Logistic_Regression:
+
+    There two notebooks in this folder and two problems solved by Logistic Regression.
+
+2- k_nearest_neighbor:
+
+    There three notebooks in this folder and three problems solved by KNN and we have used 3  different datasets.
+
+    
