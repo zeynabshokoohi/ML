@@ -1,7 +1,7 @@
 # Artificial Intelligence and Machine Learning
 
 This repository provides a comprehensive overview of various machine learning concepts and their practical applications.
-You will explore the machine learning pipeline and gain insights into supervised learning, regression models, and classification algorithms,unsupervised learning, clustering techniques, and ensemble modeling and also evaluate popular machine learning frameworks such as TensorFlow and Keras.
+We will explore the machine learning pipeline and gain insights into supervised learning, regression models, and classification algorithms,unsupervised learning, clustering techniques, and ensemble modeling and also evaluate popular machine learning frameworks such as TensorFlow and Keras.
 
 1.Handling inappropriate data
 
