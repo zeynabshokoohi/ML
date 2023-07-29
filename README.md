@@ -24,3 +24,7 @@ We will explore the machine learning pipeline and gain insights into supervised 
 10.Multiple linear Regression
 
 11.Classification
+
+12.Evaluation metrics for Classification
+    
+13.Visualization-Based for Classification metrics
