@@ -28,3 +28,23 @@ We will explore the machine learning pipeline and gain insights into supervised 
 12.Evaluation metrics for Classification
     
 13.Visualization-Based for Classification metrics
+
+14.Multiclass_Classification 
+
+15.Ensemble_learning
+
+16.Decision_Tree
+
+17.RandomForest
+
+18.Boosting
+
+19.Cross_Validation
+
+20.Hyperparameter_Tuning
+
+21.PCA(Feature Reduction)
+
+22.KMeans(Clustering)
+
+23.Recommendation_System
